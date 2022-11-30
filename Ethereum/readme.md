@@ -1,1 +1,1 @@
-Ethereum repo
+Ethereum Web3 Playground
